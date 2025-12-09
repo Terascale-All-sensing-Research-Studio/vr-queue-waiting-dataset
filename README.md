@@ -11,7 +11,7 @@
 To fill. 
 
 ## Contributors
-Elza Ibragimov, Natasha Kholgade Banerjee, Sean Banerjee, Ashutosh Shivakumar
+Elza Ibragimov, Ava Megyeri, Natasha Kholgade Banerjee, Sean Banerjee, Ashutosh Shivakumar
 
 [Terascale All-sensing Research Studio](https://tars-home.github.io)
 
@@ -33,15 +33,15 @@ The minimum (Min), maximum (Max), and average (Mean) frame rate for the head, ey
 
 | Treatment | Type of Data | Min | Max | Mean | SD |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| NO_WAIT |	Head | 67.54 | 73.87 | 71.11 | 0.96 |
-| |	Eye Gaze | 66.32 | 73.14 | 70.59 | 1.2 |
-| | Right Hand | 67.54 | 73.87 | 71.12 | 0.97 | 
-| | Left Hand | 67.54 | 73.87 | 71.12 | 0.97 |
-| 3_MINUTE_WAIT	| Head | 70.07 | 72.50 | 71.08 | 0.43
-| | Eye Gaze | 68.96 | 71.37 | 70.56 | 0.62 | 
-| | Right Hand | 70.06 | 72.50 | 71.10 | 0.43 | 
-| |	Left Hand | 70.06 | 72.50 | 71.10 | 0.43 | 
-| 6_MINUTE_WAIT	| Head | 70.07 | 72.50 | 71.08 | 0.43
-| | Eye Gaze | 68.96 | 71.37 | 70.56 | 0.62 | 
-| | Right Hand | 70.06 | 72.50 | 71.10 | 0.43 | 
-| |	Left Hand | 70.06 | 72.50 | 71.10 | 0.43 | 
+| NO_WAIT | Head | 49.52 | 71.55 & 67.81 | 3.42 |
+| | Eye gaze | 49.36 | 70.83 & 67.65 | 3.46 |
+| | Right hand | 49.52 | 71.55 & 67.81 | 3.42 |
+| | Left hand | 49.52 | 71.55 & 67.81 | 3.42 |
+| 3_MINUTE_WAIT | Head | 55.42 | 103.84 | 65.11 | 7.23 |
+| | Eye gaze | 54.09 | 103.84 | 64.85 | 7.20 |
+| | Right hand | 55.42 | 103.84 | 65.11 | 7.23 |
+| | Left hand | 55.42 | 103.84 | 65.11 | 7.23 |
+| 6_MINUTE_WAIT | Head | 55.18 | 71.69 | 60.91 | 3.32 |
+| | Eye gaze | 55.18 | 71.67 | 60.70 | 3.94 |
+| | Right hand | 55.18 | 71.69 | 60.92 | 3.32 |
+| | Left hand | 55.18 | 71.69 | 60.92 | 3.32 |
