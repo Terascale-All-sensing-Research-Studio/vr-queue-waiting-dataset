@@ -1,4 +1,4 @@
-## Dataset of Perceptions of Waiting in a Doctor's Office Receptionist Queue in Virtual Reality (VR) 
+## Waiting in Line in Virtual Reality Dataset (WAIT)
 
 ## Contents
 [Description](#description)
