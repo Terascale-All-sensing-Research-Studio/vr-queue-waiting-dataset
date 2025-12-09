@@ -8,7 +8,7 @@
 [Overview of Dataset](#overview-of-dataset)
 
 ## Description
-To fill. 
+The WAIT dataset consists of 36 human participants waiting in line at a virtual doctor's office receptionist area, designed using a Unity 2022.3.9 f1, to check in for an appointment. Each participant is randomly assigned to 3 treatment: no (NO_WAIT), 3-minute (3_MINUTE_WAIT), and 6-minute (6_MINUTE_WAIT) waits, after which they confirm their appointment with a virtual receptionist. Each participant completed all 3 treatments using a Meta Quest Pro headset. For each participant, we collect demographic data and frustration intolerance using the Frustration Discomfort Scale (FDS) prior to immersion. After each treatment, participants provided their perceived frustration and likelihood to exit using a 5-point Likert scale, and their perception of time elapsed. After all treatments, participants retook the FDS and completed the NASA Task Load Index, System Usability Scale, and Cybersickness in VR Questionnaire. Our dataset also consists of head, left hand, and right hand position and orientation data as well as object names and hit positions of all objects the participant visually engaged with. 
 
 ## Contributors
 Elza Ibragimov, Ava Megyeri, Natasha Kholgade Banerjee, Sean Banerjee, Ashutosh Shivakumar
