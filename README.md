@@ -33,10 +33,10 @@ The minimum (Min), maximum (Max), and average (Mean) frame rate for the head, ey
 
 | Treatment | Type of Data | Min | Max | Mean | SD |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| NO_WAIT | Head | 49.52 | 71.55 & 67.81 | 3.42 |
-| | Eye gaze | 49.36 | 70.83 & 67.65 | 3.46 |
-| | Right hand | 49.52 | 71.55 & 67.81 | 3.42 |
-| | Left hand | 49.52 | 71.55 & 67.81 | 3.42 |
+| NO_WAIT | Head | 49.52 | 71.55 | 67.81 | 3.42 |
+| | Eye gaze | 49.36 | 70.83 | 67.65 | 3.46 |
+| | Right hand | 49.52 | 71.55 | 67.81 | 3.42 |
+| | Left hand | 49.52 | 71.55 | 67.81 | 3.42 |
 | 3_MINUTE_WAIT | Head | 55.42 | 103.84 | 65.11 | 7.23 |
 | | Eye gaze | 54.09 | 103.84 | 64.85 | 7.20 |
 | | Right hand | 55.42 | 103.84 | 65.11 | 7.23 |
