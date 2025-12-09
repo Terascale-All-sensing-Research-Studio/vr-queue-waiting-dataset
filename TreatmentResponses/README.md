@@ -5,6 +5,8 @@ Our study consisted of three treatments:
 2.  3-minute wait (3_MINUTE_WAIT): The participant is spawned into the receptionist area behind a waiting customer NPC. The interacting receptionst NPC informs the queue that there is a delay due to a computer problem. After 3-minutes the customer NPC leaves, after which, the participant can approach the receptionist desk to confirm their appointment.
 3.  6-minute wait (6_MINUTE_WAIT): The participant is spawned into the receptionist area behind two waiting customer NPCs. The receptionist NPC informs the queue that there is a delay due to a computer problem. The first NPC leaves after 3-minutes and the second NPC after 6-minutes. After 6-minutes, the participant is free to approach the receptionist to confirm their appointment. 
 
+All participants complete all three treatments, however, treatments are assigned in random order to each participant. 
+
 | Dataset Column | Data | Response Value | 
 | ------------- | ------------- | ------------- |
 | 1 | Participant ID | Unique 5-character ID assigned to each participant. |
