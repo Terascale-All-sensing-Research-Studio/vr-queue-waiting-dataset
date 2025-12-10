@@ -1,0 +1,37 @@
+Participant ID,Treatment1,Treatment1TimeEst,Treatment1Frustration,Treatment1ExitLikelihood,Treatment2,Treatment2TimeEst,Treatment2Frustration,Treatment2ExitLikelihood,Treatment3,Treatment3TimeEst,Treatment3Frustration,Treatment3ExitLikelihood
+IQYGQ,3_MINUTE_WAIT,5,4,Unlikely,NO_WAIT,7,1,Very unlikely,6_MINUTE_WAIT,10,3,Neutral
+JZLB0,3_MINUTE_WAIT,2,2,Unlikely,6_MINUTE_WAIT,3,3,Unlikely,NO_WAIT,0,1,Very unlikely
+4O0OC,6_MINUTE_WAIT,4,4,Neutral,3_MINUTE_WAIT,0,1,Very unlikely,NO_WAIT,0.5,1,Very unlikely
+KVRK4,6_MINUTE_WAIT,7,1,Very unlikely,NO_WAIT,12,2,Very unlikely,3_MINUTE_WAIT,5,3,Likely
+A07F9,3_MINUTE_WAIT,7,2,Very unlikely,6_MINUTE_WAIT,12.5,4,Very likely,NO_WAIT,0,1,Very unlikely
+FWJWM,NO_WAIT,2,3,Very likely,6_MINUTE_WAIT,0,1,Very unlikely,3_MINUTE_WAIT,5,4,Likely
+E8MIW,6_MINUTE_WAIT,15,4,Likely,NO_WAIT,5,2,Unlikely,3_MINUTE_WAIT,5,4,Likely
+IPHUS,NO_WAIT,1,1,Unlikely,3_MINUTE_WAIT,0,1,Very unlikely,6_MINUTE_WAIT,10,2,Unlikely
+DAJ0F,3_MINUTE_WAIT,5,1,Very unlikely,NO_WAIT,3.5,1,Very unlikely,6_MINUTE_WAIT,2,1,Very unlikely
+U133U,NO_WAIT,0,1,Very unlikely,3_MINUTE_WAIT,15,3,Likely,6_MINUTE_WAIT,10,2,Unlikely
+ZC1I9,3_MINUTE_WAIT,10,4,Very likely,6_MINUTE_WAIT,10,3,Neutral,NO_WAIT,1,1,Likely
+LJ40O,NO_WAIT,1,1,Very unlikely,6_MINUTE_WAIT,5,4,Likely,3_MINUTE_WAIT,5,2,Unlikely
+DLE0I,NO_WAIT,15,4,Likely,3_MINUTE_WAIT,1,1,Unlikely,6_MINUTE_WAIT,8,5,Likely
+2PVUU,3_MINUTE_WAIT,5,2,Neutral,NO_WAIT,2,2,Very unlikely,6_MINUTE_WAIT,7,3,Likely
+CNHWK,3_MINUTE_WAIT,2,1,Very unlikely,6_MINUTE_WAIT,3,1,Very unlikely,NO_WAIT,0,1,Very unlikely
+HMISM,6_MINUTE_WAIT,10,2,Very unlikely,3_MINUTE_WAIT,13,2,Unlikely,NO_WAIT,0,1,Very unlikely
+S45AI,NO_WAIT,1,2,Unlikely,3_MINUTE_WAIT,2,1,Very unlikely,6_MINUTE_WAIT,3,2,Unlikely
+U9ASF,6_MINUTE_WAIT,10,3,Very unlikely,NO_WAIT,0,1,Very unlikely,3_MINUTE_WAIT,5,2,Very unlikely
+6VGIY,3_MINUTE_WAIT,8,3,Likely,NO_WAIT,10,4,Unlikely,6_MINUTE_WAIT,12,3,Likely
+MN4UH,NO_WAIT,0.5,1,Very unlikely,6_MINUTE_WAIT,3,4,Likely,3_MINUTE_WAIT,5,3,Unlikely
+2XBOF,6_MINUTE_WAIT,5,3,Likely,3_MINUTE_WAIT,10,3,Likely,NO_WAIT,0,1,Very unlikely
+1MNQO,3_MINUTE_WAIT,5,2,Likely,6_MINUTE_WAIT,7.5,4,Likely,NO_WAIT,0,1,Very likely
+8XL8L,NO_WAIT,1,2,Unlikely,3_MINUTE_WAIT,7.5,4,Likely,6_MINUTE_WAIT,7.5,4,Likely
+ZWXZF,NO_WAIT,1,1,Very unlikely,6_MINUTE_WAIT,12.5,2,Unlikely,3_MINUTE_WAIT,5,2,Very unlikely
+A8137,3_MINUTE_WAIT,5,3,Neutral,NO_WAIT,1,1,Very unlikely,6_MINUTE_WAIT,15,3,Unlikely
+HO7FH,6_MINUTE_WAIT,10,1,Very unlikely,3_MINUTE_WAIT,3,1,Very unlikely,NO_WAIT,0,1,Very unlikely
+XBS6U,3_MINUTE_WAIT,2.5,2,Unlikely,6_MINUTE_WAIT,4.5,3,Neutral,NO_WAIT,0,1,Very unlikely
+FXIIP,3_MINUTE_WAIT,15,3,Very unlikely,6_MINUTE_WAIT,15,2,Very unlikely,NO_WAIT,2,1,Very unlikely
+1AH4W,NO_WAIT,1,2,Neutral,6_MINUTE_WAIT,6,3,Unlikely,3_MINUTE_WAIT,4,2,Unlikely
+IL9KC,6_MINUTE_WAIT,10,4,Likely,NO_WAIT,1,1,Very unlikely,3_MINUTE_WAIT,10,4,Likely
+FRU51,NO_WAIT,2,1,Neutral,3_MINUTE_WAIT,10,1,Unlikely,6_MINUTE_WAIT,10,1,Unlikely
+ANTUJ,6_MINUTE_WAIT,8,2,Unlikely,3_MINUTE_WAIT,4.5,2,Unlikely,NO_WAIT,0,1,Very unlikely
+I3CXJ,3_MINUTE_WAIT,3.5,3,Very likely,6_MINUTE_WAIT,5.5,3,Very likely,NO_WAIT,0,1,Unlikely
+ALXLN,6_MINUTE_WAIT,10,4,Likely,3_MINUTE_WAIT,5,4,Neutral,NO_WAIT,2,1,Very unlikely
+K54Q7,3_MINUTE_WAIT,7,3,Very likely,NO_WAIT,0,1,Very unlikely,6_MINUTE_WAIT,10,5,Very likely
+878A1,NO_WAIT,0,1,Very unlikely,6_MINUTE_WAIT,5,3,Unlikely,3_MINUTE_WAIT,2.5,3,Unlikely
