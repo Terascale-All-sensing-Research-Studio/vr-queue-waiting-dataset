@@ -7,6 +7,8 @@
 
 [Overview of Dataset](#overview-of-dataset)
 
+[Directory Tree](#directory-tree)
+
 [Data Dictionary](#data-dictionary)
 
 ## Description
@@ -29,6 +31,9 @@ The dataset is organized into the following folders:
 | SUS	| None |	CSV	| Participant responses to the standard System Usability Scale (SUS). Each participant is assigned a unique 5-character ID. |
 | TreatmentResponses |	None |	CSV	| Participant responses to each treatment, i.e., being notified about the reason for the wait (With_Notification) or not being notified about the reason (Without_Notification). Participant responses include their time estimate for the wait in minutes, their frustration level on a 5-point Likert scale (1 being lowest and 5 highest), and their likelihood to exit on a 5-point Likert scale. Each participant is assigned a unique 5-character ID.
 | VRData	| Yes	| CSV	| Contains 36 subfolders that represents each participant. Each subfolder is named with the unique 5-character ID. Within each participant subfolder there are three additional subfolders named ParticipantID_NO_WAIT, ParticipantID_3_MINUTE_WAIT and ParticipantID_6_MINUTE_WAIT. Here Participant_ID is the unique 5-character ID and NO_WAIT, 3_MINUTE_WAIT and 6_MINUTE_WAIT are the wait conditions. Within the ParticipantID_NO_WAIT, ParticipantID_3_MINUTE_WAIT, and ParticipantID_6_MINUTE_WAIT subfolders are four CSV files for Eye Gaze (EyeGazeLog), Head Position and Orientation (HeadPosition), Left Hand (LeftHandLog), and Right Hand (RightHandLog). Thus, each participant has 12 CSV files. |
+
+## Directory Tree
+We provide the directory tree below for the repository and the tree for one example participant () in the VRData folder:
 
 ## Data Dictionary
 The file [dictionary.csv](https://github.com/Terascale-All-sensing-Research-Studio/vr-queue-waiting-dataset/blob/main/dictionary.csv) provides a summary of the data found in the following CSV files in our dataset: 
