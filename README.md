@@ -46,7 +46,6 @@ We provide the directory tree below for the repository and the tree for one exam
 │   ├── README.md
 │   ├── post_fds.csv
 │   └── pre_fds.csv
-├── LICENSE
 ├── NASA_TLX/
 │   ├── README.md
 │   └── nasatlx.csv
@@ -75,6 +74,7 @@ We provide the directory tree below for the repository and the tree for one exam
 │   │       ├── LeftHandLog_NO_WAIT.csv
 │   │       └── RightHandLog_NO_WAIT.csv
 │   └── waitSummary.py
+├── LICENSE
 └── dictionary.csv
 ```
 
