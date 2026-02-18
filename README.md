@@ -33,7 +33,49 @@ The dataset is organized into the following folders:
 | VRData	| Yes	| CSV	| Contains 36 subfolders that represents each participant. Each subfolder is named with the unique 5-character ID. Within each participant subfolder there are three additional subfolders named ParticipantID_NO_WAIT, ParticipantID_3_MINUTE_WAIT and ParticipantID_6_MINUTE_WAIT. Here Participant_ID is the unique 5-character ID and NO_WAIT, 3_MINUTE_WAIT and 6_MINUTE_WAIT are the wait conditions. Within the ParticipantID_NO_WAIT, ParticipantID_3_MINUTE_WAIT, and ParticipantID_6_MINUTE_WAIT subfolders are four CSV files for Eye Gaze (EyeGazeLog), Head Position and Orientation (HeadPosition), Left Hand (LeftHandLog), and Right Hand (RightHandLog). Thus, each participant has 12 CSV files. |
 
 ## Directory Tree
-We provide the directory tree below for the repository and the tree for one example participant () in the VRData folder:
+We provide the directory tree below for the repository and the tree for one example participant (1AH4W) in the VRData folder:
+
+├── Cybersickness/
+│   ├── README.md
+│   └── cybersickness.csv
+├── Demographics/
+│   ├── README.md
+│   └── demographics.csv
+├── FDS/
+│   ├── README.md
+│   ├── post_fds.csv
+│   └── pre_fds.csv
+├── LICENSE
+├── NASA_TLX/
+│   ├── README.md
+│   └── nasatlx.csv
+├── README.md
+├── SUS/
+│   ├── README.md
+│   └── sus.csv
+├── TreatmentResponses/
+│   ├── README.md
+│   └── TreatmentResponses.csv
+├── VRData/
+│   ├── 1AH4W/
+│   │   ├── 1AH4W_3_MINUTE_WAIT/
+│   │   │   ├── EyeGazeLog_3_MINUTE_WAIT.csv
+│   │   │   ├── HeadPositionLog_3_MINUTE_WAIT.csv
+│   │   │   ├── LeftHandLog_3_MINUTE_WAIT.csv
+│   │   │   └── RightHandLog_3_MINUTE_WAIT.csv
+│   │   ├── 1AH4W_6_MINUTE_WAIT/
+│   │   │   ├── EyeGazeLog_6_MINUTE_WAIT.csv
+│   │   │   ├── HeadPositionLog_6_MINUTE_WAIT.csv
+│   │   │   ├── LeftHandLog_6_MINUTE_WAIT.csv
+│   │   │   └── RightHandLog_6_MINUTE_WAIT.csv
+│   │   └── 1AH4W_NO_WAIT/
+│   │       ├── EyeGazeLog_NO_WAIT.csv
+│   │       ├── HeadPositionLog_NO_WAIT.csv
+│   │       ├── LeftHandLog_NO_WAIT.csv
+│   │       └── RightHandLog_NO_WAIT.csv
+│   └── waitSummary.py
+└── dictionary.csv
+
 
 ## Data Dictionary
 The file [dictionary.csv](https://github.com/Terascale-All-sensing-Research-Studio/vr-queue-waiting-dataset/blob/main/dictionary.csv) provides a summary of the data found in the following CSV files in our dataset: 
