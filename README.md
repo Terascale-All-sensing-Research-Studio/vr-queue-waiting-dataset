@@ -35,7 +35,7 @@ The dataset is organized into the following folders:
 ## Directory Tree
 We provide the directory tree below for the repository and the tree for one example participant (1AH4W) in the VRData folder:
 
-'''
+```
 ├── Cybersickness/
 │   ├── README.md
 │   └── cybersickness.csv
@@ -76,7 +76,7 @@ We provide the directory tree below for the repository and the tree for one exam
 │   │       └── RightHandLog_NO_WAIT.csv
 │   └── waitSummary.py
 └── dictionary.csv
-'''
+```
 
 ## Data Dictionary
 The file [dictionary.csv](https://github.com/Terascale-All-sensing-Research-Studio/vr-queue-waiting-dataset/blob/main/dictionary.csv) provides a summary of the data found in the following CSV files in our dataset: 
