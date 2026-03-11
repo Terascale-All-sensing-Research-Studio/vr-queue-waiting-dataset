@@ -5,7 +5,7 @@ The standard Frustration Discomfort Scale (FDS) was administered at the [start](
 * I need the easiest way around problems; I can’t stand making a hard time of it
 * I can’t stand having to wait for things I would like now
 * I must be free of disturbing feelings as quickly as possible; I can’t bear if they continue
-* I can’t stand being prevented from achieving
+* I can’t stand being prevented from achieving my full potential 
 * I can’t stand doing tasks that seem too difficult
 * I can’t stand it if other people act against my wishes
 * I can’t bear to feel that I am losing my mind
